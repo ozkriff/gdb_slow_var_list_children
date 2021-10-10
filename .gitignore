@@ -1,0 +1,9 @@
+*.sw?
+obj/*
+bin/*
+tmp/*
+cmake-build-debug/*
+cmake-build-release/*
+CMakeCache.txt
+.idea/*
+target/*
